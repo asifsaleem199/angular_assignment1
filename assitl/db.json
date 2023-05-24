@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "asif",
+      "email": "asif@gmail.com",
+      "status": "active",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "name": "surya",
+      "email": "surya@gmail.com",
+      "status": "active",
+      "password": "1234"
+    },
+    {
+      "id": "3",
+      "name": "jefrin",
+      "email": "jefrin@gmail.com",
+      "status": "active",
+      "password": "1234"
+    },
+    {
+      "id": "4",
+      "name": "nidhin",
+      "email": "nidhin@gmail.com",
+      "status": "active",
+      "password": "1234"
+    },
+    {
+      "id": "5",
+      "name": "akash",
+      "email": "akash@gmail.com",
+      "status": "active",
+      "password": "1234"
+    },
+    {
+      "id": "6",
+      "name": "anju",
+      "email": "anju@gmail.com",
+      "status": " active",
+      "password": "1234"
+    },
+    {
+      "id": "7",
+      "name": "aswathy",
+      "email": "aswathy@gmail.com",
+      "status": "active",
+      "password": "1234"
+    }
+  ]
+}
